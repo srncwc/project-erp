@@ -1,0 +1,6 @@
+id,reference,date,amount,recordedBy,note,voided,voidDate,voidedBy,voidReason
+T001,PURCHASE:P002,2026-10-15,2760000.00,U006 / manager,,true,2026-10-15,U001 / admin,test
+T002,PURCHASE:P001,2026-10-15,100000.00,U006 / manager,,false,,,
+T003,PURCHASE:P002,2026-10-15,2760000.00,U001 / admin,,false,,,
+T004,SALE:S001,2026-10-15,60000.00,U001 / admin,,false,,,
+T005,SALE:S002,2026-10-16,400000.00,U006 / manager,,false,,,

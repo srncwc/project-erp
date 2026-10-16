@@ -1,0 +1,4 @@
+id,code,name,unit,openingQuantity
+W001,h001,cpu,piece,0
+W002,h002,ram-bus4200,piece,0
+W003,h003,GPU,piece,0
