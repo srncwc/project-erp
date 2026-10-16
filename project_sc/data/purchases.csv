@@ -1,0 +1,4 @@
+id,date,supplier,product,quantity,unitCost,productId
+P001,2000-12-01,ihavecpu,cpu,20,10000.00,W001
+P002,2000-12-01,ihavecpu,ram-bus4200,1200,2300.00,W002
+P003,2600-11-01,ihavecpu,GPU,5,100000.00,W003

@@ -1,0 +1,7 @@
+id,username,password,displayName,accountType,roleIds
+U001,admin,Demo1234,Demo Admin,ADMIN,
+U002,finance,admin1234,pw:admin1234,USER,R004
+U003,sales,admin1234,pw:admin1234,USER,R001
+U004,procurement,admin1234,pw:admin1234,USER,R002
+U005,warehouse,admin1234,pw:admin1234,USER,R003
+U006,manager,admin1234,pw:admin1234,USER,R001|R002|R003|R004

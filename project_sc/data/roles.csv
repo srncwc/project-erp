@@ -1,0 +1,5 @@
+id,name,modules
+R001,Sales,Sales
+R002,Purchasing,Procurement
+R003,Stockkeeper,Warehouse
+R004,Accountant,Finance
